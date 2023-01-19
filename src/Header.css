@@ -1,0 +1,19 @@
+.Header {
+  background-color: #a5b1c2;
+  min-height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  color: white;
+}
+
+.titulo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Header img {
+  max-width: 15vw;
+}

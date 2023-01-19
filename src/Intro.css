@@ -1,0 +1,15 @@
+.Intro {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+}
+
+.Intro div {
+  padding: 30px;
+  flex: 1;
+}
+
+.Intro img {
+  width: 100%;
+  border-radius: 5px;
+}

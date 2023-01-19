@@ -1,0 +1,17 @@
+.Footer {
+  background-color: #2d98da;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.Footer div {
+  width: 33vw;
+}
+
+.Footer a {
+  color: white;
+  text-decoration: none;
+}
