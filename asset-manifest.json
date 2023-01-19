@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/estimador-co2-agua/static/css/main.43e98e6b.css",
+    "main.js": "/estimador-co2-agua/static/js/main.acb53ae0.js",
+    "static/js/787.6edb675a.chunk.js": "/estimador-co2-agua/static/js/787.6edb675a.chunk.js",
+    "index.html": "/estimador-co2-agua/index.html",
+    "main.43e98e6b.css.map": "/estimador-co2-agua/static/css/main.43e98e6b.css.map",
+    "main.acb53ae0.js.map": "/estimador-co2-agua/static/js/main.acb53ae0.js.map",
+    "787.6edb675a.chunk.js.map": "/estimador-co2-agua/static/js/787.6edb675a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43e98e6b.css",
+    "static/js/main.acb53ae0.js"
+  ]
+}
